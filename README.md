@@ -3,15 +3,23 @@ userChrome.css setting for hiding the tabbar and titlebar and the close/hide/max
 
 # My environment.
 
-My setting
-Firefox 59.0.1
-Tree style tab 2.4.17 installed
+- Firefox 59.0.1 (Aimed for Firefox Quantum(Firefox 57+).)
+- Tree style tab 2.4.17 installed
 
 https://addons.mozilla.org/ja/firefox/addon/tree-style-tab/
 
-# what it does.
+# Where to put userChrome.css
 
-- Show the tab on left side.
-- Hide the title/tabbar including the hide/maximize/close buttons.
+Type `about:support` in the urlbar and access Trouble shooting information.
+Look for `Profile Folder` in the table and open it with Finder/Exploler or something.
+Make a folder name `chrome` and put userChrome.css in it.
 
-Making a very minimal clean interface.
+
+# What it does.
+
+- Show the tab on left side. (By the Tree Style Tab addon.)
+- Hide the title/tabbar including the hide/maximize/close buttons. (Using userChrome.css)
+  - Since there is no need to show tab at both left and top.
+
+It would make a very minimal clean interface.
+
