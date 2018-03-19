@@ -14,6 +14,8 @@ Type `about:support` in the urlbar and access Trouble shooting information.
 Look for `Profile Folder` in the table and open it with Finder/Exploler or something.
 Make a folder name `chrome` and put userChrome.css in it.
 
+Look the following link for more explanation.
+- https://i-bitzedge.com/tips/how-to-create-userchrome-css-for-firefox
 
 # What it does.
 
