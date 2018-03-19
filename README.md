@@ -25,3 +25,4 @@ Look the following link for more explanation.
 
 It would make a very minimal clean interface.
 
+![](./minimal_ui.png)
